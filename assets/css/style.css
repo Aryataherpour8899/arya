@@ -1,0 +1,33 @@
+body {
+    background-color: rgb(227, 215, 215);
+    color: aliceblue;
+    color: black;
+}
+.jumbotron {
+    background-color: rgb(0, 0, 0);
+    color: aliceblue;
+    margin-bottom: 50px;
+}
+.bobo {
+    text-align: center;
+}
+.parcham {
+    width: 300px;
+    height: 300px;
+    margin: 100px;
+}
+.hh {
+    width: 200px;
+    margin: 150px;
+    margin-top: -100px;
+}
+.iran {
+    width: 300px;
+    height: 300px;
+    margin-left: 800px;
+    margin-top: -1490px;
+}
+.oo {
+    margin: 920px;
+    margin-top: -600px;
+}
